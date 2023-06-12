@@ -38,7 +38,7 @@ If you have connected android device, run
 
 ## Support
 
-For support, email mandipsinhvaghela47r@gmail.com.
+For support, email mandipsinhvaghela47@gmail.com.
 
 
 
